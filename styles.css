@@ -123,6 +123,25 @@ h2 {
   margin-top: 1.5rem;
 }
 
+.games-banner {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 20px;
+  background: linear-gradient(90deg, rgba(94, 234, 212, 0.16), rgba(124, 58, 237, 0.2));
+  border: 1px solid var(--border);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.16);
+}
+
+.games-banner h3 {
+  margin: 0.3rem 0 0.7rem;
+  font-size: 1.25rem;
+}
+
+.games-banner p {
+  margin: 0;
+  color: var(--muted);
+}
+
 .footer {
   text-align: center;
   padding: 2rem 1.5rem 3rem;
